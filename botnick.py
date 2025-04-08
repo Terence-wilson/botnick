@@ -154,4 +154,4 @@ async def retitle_error(ctx, error):
     if isinstance(error, commands.MissingRole):
         await ctx.send("You do not have permission to use this command.")
 
-bot.run("MTM1OTAyODEzMjY2MDY0MTkwMg.Guuddb.POByLfW_RDFoEyv6ZYG5RZow0USaLReMaGHtoI")
+bot.run("")
